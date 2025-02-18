@@ -6,7 +6,7 @@ Welcome to my Weather App! 🌤️ I'm Raj Singh, a Full Stack Developer, and th
 1. [Project Overview](#project-overview)
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
-4. [Live Demo](#live-demo)
+4. [Live Demo⏯️](https://weather.singhq.site/)
 
 ## Project Overview 📝
 
